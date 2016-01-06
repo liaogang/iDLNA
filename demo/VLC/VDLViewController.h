@@ -39,6 +39,7 @@ typedef void(^FullScreenCallBack)(BOOL bWillConvertToFullScreen );
 @end
 
 
+
 @interface VDLViewController : UIViewController <VLCMediaPlayerDelegate>
 @property (nonatomic , assign  ) id<VLCViewData> delegate;
 -(BOOL)play;

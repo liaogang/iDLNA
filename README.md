@@ -1,20 +1,27 @@
-#DLNA
+#iDLNA
 
-DLNA 标准DMS,DMC,DMR在IOS上的实现。  
+A standard DLNA(dms,dmc,dmr) implement at IOS.  
 
-##项目简介
+[ Platinum UPnP SDK](https://www.plutinosoft.com/platinum) is used to support DLNA.
 
-本项目使用PlatinumKit开源库,作为dlna调用接口。  
+# What is [DLNA](www.dlna.org)
 
-使用cocoapods 管理依赖库，应该使用 xcworkspace工程文件，而不是xcodeproj.
+Digital Living Network Alliance (DLNA) (originally named Digital Home Working Group [DHWG]) was founded by a group of consumer electronics companies to develop and promote a set of interoperability guidelines for sharing digital media among multimedia devices.  
 
-##Refrence
-  
-本项目的开发主要依照upnp及dlna标准。文档来自dlna及upnp官网。  
+数字生活网络联盟是一个由消费性电子、移动电话，以及电脑厂商组成的联盟组织。该组织的目标在于建立一套可以使得各厂商的产品互相连接，互相适应的工业标准，从而为消费者实现数位化生活。  
 
-##关于播放列表
+# How to Build
 
-播放列表部分主要文档：[openhome中有一些介绍](http://openhome.org/wiki/Av:Developer:PlaylistService#Overview)  
+* Update the cocoapods , using `pod update`  
+* Open xxx.xcworkspace instead of xxx.xcodeproj  
+* If there is a complie error in \<MobileVLCKit/VLCMediaListPlayer.h\>,
+comment that line :  
+ `//typedef NSInteger VLCRepeatMode;`   
+* Done 
 
-http://www.openhome.org/wiki/OhMedia  
+# LICENSE  
+
+For This project [ by-nc-sa](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)  
+For Platinum UPnP SDK [ View is website ](https://www.plutinosoft.com/platinum)  
+
 
