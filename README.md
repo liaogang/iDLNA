@@ -24,4 +24,10 @@ comment that line :
 For This project [ by-nc-sa](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)  
 For Platinum UPnP SDK [ View is website ](https://www.plutinosoft.com/platinum)  
 
+#ScreenShots
 
+![](https://raw.githubusercontent.com/liaogang/iDLNA/master/screenshots/a.PNG)  
+
+![](https://raw.githubusercontent.com/liaogang/iDLNA/master/screenshots/b.PNG)
+
+![](https://raw.githubusercontent.com/liaogang/iDLNA/master/screenshots/c.PNG)  
