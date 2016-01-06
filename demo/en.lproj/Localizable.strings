@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  demo
+
+  Created by liaogang on 15/9/6.
+  Copyright (c) 2015年 com.cs. All rights reserved.
+*/
+
+"Today" ;
+"Yestoday";
+"The day before yestoday";
