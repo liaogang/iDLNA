@@ -31,3 +31,7 @@ For Platinum UPnP SDK [ Website ](https://www.plutinosoft.com/platinum)
 ![](https://raw.githubusercontent.com/liaogang/iDLNA/master/screenshots/b.PNG)
 
 ![](https://raw.githubusercontent.com/liaogang/iDLNA/master/screenshots/c.PNG)  
+
+# Note  
+
+This project is not up to date , please see [liaogang/DLNASample](https://github.com/liaogang/DLNASample)
