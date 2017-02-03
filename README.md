@@ -4,6 +4,10 @@ A standard DLNA(dms,dmc,dmr) implement at IOS.
 
 [ Platinum UPnP SDK](https://www.plutinosoft.com/platinum) is used to support DLNA.
 
+# Note  
+
+This project is not up to date , please see [liaogang/DLNASample](https://github.com/liaogang/DLNASample)
+
 # What is [DLNA](http://www.dlna.org)
 
 Digital Living Network Alliance (DLNA) (originally named Digital Home Working Group [DHWG]) was founded by a group of consumer electronics companies to develop and promote a set of interoperability guidelines for sharing digital media among multimedia devices.  
@@ -32,6 +36,3 @@ For Platinum UPnP SDK [ Website ](https://www.plutinosoft.com/platinum)
 
 ![](https://raw.githubusercontent.com/liaogang/iDLNA/master/screenshots/c.PNG)  
 
-# Note  
-
-This project is not up to date , please see [liaogang/DLNASample](https://github.com/liaogang/DLNASample)
